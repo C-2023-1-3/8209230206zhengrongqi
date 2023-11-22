@@ -14,3 +14,5 @@ int main()
     cout << "请输入圆锥的高：" << endl;
     cin >> number2 ;
     cout << "圆锥的体积为" << number1 * number1 * number2 * pi /3<< endl;
+    return 0 ;
+}
